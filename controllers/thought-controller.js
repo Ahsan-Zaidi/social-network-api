@@ -13,7 +13,7 @@ const thoughtController = {
     },
 
     //get a single thought by id
-    getToughtById({ params }, res) {
+    getThoughtById({ params }, res) {
         Thought.findOne({ _id: params.id })
             .then(dbThoughtData => {
                 if (!dbThoughtData) {
