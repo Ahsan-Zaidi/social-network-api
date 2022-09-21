@@ -1,3 +1,4 @@
+//required models from folder
 const { User, Thought } = require('../models');
 
 const userController = {
@@ -112,4 +113,5 @@ const userController = {
     }
 }
 
+//export the userController file
 module.exports = userController;
