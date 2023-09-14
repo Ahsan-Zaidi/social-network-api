@@ -1,18 +1,7 @@
 # social-network-api
 
 <h1 align="center"> NoSQL Challenge: Social Network API 👋</h1>
-  
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/e-commerce-backend" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/e-commerce-backend"  />
-    <img src="https://img.shields.io/github/issues/jpd61/e-commerce-backend" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/e-commerce-backend" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
-    </a>
-</p>
-  
+
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
@@ -25,9 +14,7 @@
 
 ## Description
 
-🔍MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. Over the last part of this course, you’ll use several of the technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that you understand how to build and structure the API first.
-
-In this app, I have created an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js (Links to an external site.) and Mongoose (Links to an external site.) packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps
+🔍 In this application, I've developed an API for a social networking web platform that enables users to express their thoughts, respond to their friends' posts, and build a list of friends. The technology stack includes Express.js for routing, a MongoDB database, and the Mongoose Object Data Modeling (ODM). In addition to the Express.js and Mongoose packages, you have the option to incorporate a JavaScript date library of your preference or utilize the native JavaScript Date object to format timestamps.
 
 ✋ [GitHub Repository](https://github.com/Ahsan-Zaidi/social-network-api)
 
@@ -87,4 +74,4 @@ No testing is currently set up
 ## Questions
 
  If you have any queries feel free to contact me at ✉️ Zaidiahsan.r@gmail.com.
- You can also reach me out through my Github profile at  👋[fizzaaz](https://github.com/Ahsan-Zaidi/).
+ You can also reach me out through my Github profile at  👋(https://github.com/Ahsan-Zaidi/).
